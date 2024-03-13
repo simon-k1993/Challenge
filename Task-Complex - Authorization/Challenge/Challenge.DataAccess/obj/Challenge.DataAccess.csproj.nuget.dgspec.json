@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
         "projectName": "Challenge.DataAccess",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
+              "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
               },
-              "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
-                "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj"
+              "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj"
               }
             }
           }
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "projectName": "Challenge.Domain",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj",
         "projectName": "Challenge.DTOs",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.DTOs\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,8 +253,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
+              "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
               }
             }
           }

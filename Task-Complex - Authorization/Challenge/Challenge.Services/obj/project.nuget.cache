@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RBrpb869YkasafpWKXz9NvdoktHMcUqbjFQ90v0/eLI2Jv6/UxdiuJE1n3MqnFU9/Iu7ODZZBgyKfpHTjA7pg==",
+  "dgSpecHash": "ANsGRMtSnRX3s5c36bByWQMpOHTB/QJugkr42pPMlENax2kcu0Lc9Znqf8Sub9RVcTQbkQCmf8NZGvtNpbi80w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Services\\Challenge.Services.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Services\\Challenge.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

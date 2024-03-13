@@ -4374,11 +4374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
       "projectName": "Challenge.Domain",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Challenge-Folder\\Note-complex - Authorization\\Challenge\\Challenge.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complex - Authorization\\Challenge\\Challenge.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

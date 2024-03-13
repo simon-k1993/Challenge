@@ -3509,11 +3509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
       "projectName": "Challenge.DataAccess",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\Challenge.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3530,11 +3530,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
-              "projectPath": "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
+            "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+              "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj"
             },
-            "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
-              "projectPath": "C:\\Users\\Simon\\Desktop\\Task-UnitOfWork\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj"
+            "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj": {
+              "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-UnitOfWork\\Challenge\\Challenge.DTOs\\Challenge.DTOs.csproj"
             }
           }
         }

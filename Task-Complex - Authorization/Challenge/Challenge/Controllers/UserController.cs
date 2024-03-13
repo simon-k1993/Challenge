@@ -31,7 +31,7 @@ namespace Challenge.Controllers
             var email = User.FindFirstValue(ClaimTypes.Email);
             var user = await _userManager.FindByNameAsync(email);
 
-            //await _userManager.AddToRoleAsync(user, "NoteUser");
+
 
             return new UserDto
             {
