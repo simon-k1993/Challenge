@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Task-Complex-Completed\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complete-complex\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Task-Complex-Completed\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complete-complex\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Task-Complex-Completed\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complete-complex\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "projectName": "Challenge.Domain",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Task-Complex-Completed\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complete-complex\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Task-Complex-Completed\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Git-Challenge\\Challenge\\Task-Complete-complex\\Task-Complex - AuthorizationVersion\\Challenge\\Challenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
