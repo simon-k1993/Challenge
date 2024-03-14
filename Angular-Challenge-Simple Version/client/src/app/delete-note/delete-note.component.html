@@ -1,0 +1,15 @@
+<div class="delete-container">
+  <h2>Delete Note</h2>
+  <form (ngSubmit)="deleteNote()" class="delete-form">
+    <div class="form-field">
+      <label for="noteId">Note ID:</label>
+      <input type="number" class="form-control" id="noteId" [(ngModel)]="id" name="id" required placeholder="Enter Note ID">
+    </div>
+    <button type="submit" class="delete-btn">Delete</button>
+  </form>
+</div>
+
+<div *ngIf="showErrorToast" [ngClass]="{'success-toast': toastType === 'success', 'error-toast': toastType === 'error'}">
+  {{ errorMessage }}
+</div>
+

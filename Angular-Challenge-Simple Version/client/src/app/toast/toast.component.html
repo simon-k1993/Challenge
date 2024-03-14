@@ -1,0 +1,6 @@
+<div class="toast-container" *ngIf="toastService.toasts.length > 0; else noToasts">
+  <div *ngFor="let toast of toastService.toasts; let i = index" class="toast" (click)="checkForChanges()">
+    {{ toast.message }}
+  </div>
+</div>
+<ng-template #noToasts></ng-template>

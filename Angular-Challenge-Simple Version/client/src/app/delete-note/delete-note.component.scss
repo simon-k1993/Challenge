@@ -1,0 +1,73 @@
+.delete-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f2f4f8;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.delete-container h2 {
+  text-align: center;
+  color: #333;
+}
+
+.delete-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-control:focus {
+  border-color: #a4cae8;
+  outline: none;
+}
+
+.delete-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #ff4b5c;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.delete-btn:hover {
+  background-color: #ff616d;
+}
+
+.success-toast, .error-toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding: 20px;
+  border-radius: 10px;
+  z-index: 1000;
+  min-width: 300px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+  color: white;
+}
+
+.success-toast {
+  background-color: #28a745;
+}
+
+.error-toast {
+  background-color: #dc3545;
+}

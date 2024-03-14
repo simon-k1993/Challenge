@@ -1,0 +1,22 @@
+<div class="notes-grid">
+  <div class="note-card" *ngFor="let note of notes">
+    <table class="note-table">
+      <tr>
+        <th>Name:</th>
+        <td>{{ note.name }}</td>
+      </tr>
+      <tr>
+        <th>Description:</th>
+        <td>{{ note.description }}</td>
+      </tr>
+      <tr>
+        <th>Status:</th>
+        <td><span [ngClass]="{'completed': note.status === 'Completed', 'incompleted': note.status === 'Incompleted'}">{{ note.status }}</span></td>
+      </tr>
+      <tr>
+        <th>Due Date:</th>
+        <td>{{ note.dueDate | date: 'mediumDate' }}</td>
+      </tr>
+    </table>
+  </div>
+</div>
